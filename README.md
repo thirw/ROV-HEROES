@@ -1,8 +1,8 @@
-## Database and API of ROV-Hero by first.boi
+## Database and API of ROV-Hero by Thirawat Prasert
 
 ## Description
 
-This project is a nestjsApi and database for ROV-Hero 
+This project is an example for nestjsApi and mockup database for ROV-Hero 
 
 ## Installation
 
